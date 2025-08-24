@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snuffy1&label=Profile%20views&color=0e75b6&style=flat" alt="snuffy1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snuffy1" alt="snuffy1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="pp.jpg" alt="snuffy1" width="200"  /></a> </p>
 
 - 🔭 I’m currently working on [cliff](https://malla-cliff.vercel.app/)
 
