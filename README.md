@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Gsap**
 
-- 👨‍💻 All of my projects are available at [https://snuffdeath.netlify.app/](https://snuffdeath.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://snuffdeath.netlify.app/](https://new-portfolio-henna-omega.vercel.app/)
 
 - 💬 Ask me about **react js, next js and three js**
 
